@@ -4,3 +4,4 @@ console.log("Halo, ini latihan pertamaku");
 
 console.log("Edit dari GitHub");
 console.log("Ini dari cabang baru");
+console.log ("ini latihan ke - 2 kali");
